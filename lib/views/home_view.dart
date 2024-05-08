@@ -1,4 +1,4 @@
-import 'package:calculator_app/views/calculator.dart';
+import 'package:calculator_app/views/calculator/calculator.dart';
 import 'package:flutter/material.dart';
 
 class HomeView extends StatelessWidget {
